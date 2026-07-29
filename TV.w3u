@@ -84,64 +84,47 @@ https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/V4.m3u8
 https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/V5.m3u8
 ###########################################################################################
  
-#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/imagee2cf2efdbf1d10d6.png"group-title="WorldCup",FIFA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
-https://live.livedoomovies.com:4433/live/Monomax_PL_1HD/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/imagee2cf2efdbf1d10d6.png"group-title="WorldCup",FIFA 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:https://www.doonewmovie365.com/
-https://live.livedoomovies.com:4433/api/hls/live/82290/playlist.m3u8
-################################################################
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W1.m3u8
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W2.m3u8
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W3.m3u8
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W4.m3u8
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W5.m3u8
-https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/W6.m3u8
- 
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX1
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_1HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX2
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_2HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX3
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_3HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX4
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_4HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX5
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_5HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX6
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_6HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX7
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_7HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_8HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX9
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_9HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX10
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_10HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="WorldCup",MAX11
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",MAX11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
 https://live.livedoomovies.com:4433/live/Monomax_Live_11HD/playlist.m3u8

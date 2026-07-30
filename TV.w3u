@@ -57,12 +57,12 @@ https://live.livedoomovies.com:4433/api/hls/live/2101/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/Tennis.png" group-title="Event",TENNIS
 https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/TrueTennis.m3u8
 ##########################################################################################################
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/29_MonomaxSports.png"group-title="Event",Monosport
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260602150518056173.png?xsize=108&ysize=108"group-title="Event",Monosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dooballland.com/
 https://cdn1.amazaa.live/dbl/mono29/chunks.m3u8
 ############################################################################################################
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/29_MonomaxSports.png" group-title="Event",MONO29
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20260602150518056173.png?xsize=108&ysize=108" group-title="Event",MONO29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
@@ -282,9 +282,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://live.livedoomovies.com:4433/api/hls/live/2056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_CH",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
-https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8 
+https://raw.githubusercontent.com/IPTV59/IPTV2/refs/heads/main/HBO.m3u8
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_CH",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.madooball.com/

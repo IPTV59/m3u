@@ -282,9 +282,11 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 https://live.livedoomovies.com:4433/api/hls/live/2056/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_CH",HBO
-https://raw.githubusercontent.com/IPTV59/IPTV2/refs/heads/main/HBO.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_CH",HBO
-https://raw.githubusercontent.com/IPTV59/IPTV2/refs/heads/main/HBO.m3u8
+http://dl.dropbox.com/scl/fi/bri2whhvzmy9dfnz5y5ox/server2-movies-hbo.m3u8?rlkey=3f24pg8w0myd4q1xvx1bolyiq&dl=1
 #EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/Film1.webp"group-title="True_CH",trueFILM1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/

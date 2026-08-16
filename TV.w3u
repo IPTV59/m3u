@@ -46,6 +46,76 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2YSxIGU.jpg" group-title="Event",HiSports 
 http://49.0.64.96:8007/HiSports 
 #################################################################################
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport1.jpg" group-title="Event2",SportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2892/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/TrueSport2ba9c67f2f34375c6.jpg" group-title="Event2",SportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2891/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport3.jpg" group-title="Event2",SportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2890/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport5.jpg" group-title="Event2",SportHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2888/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport7.jpg" group-title="Event2",SportHD 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2829/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/SPOTV.jpg" group-title="Event2",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/SPOTV2.jpg" group-title="Event2",SPOTV2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2023/playlist.m3u8
+########################################################################################################
+ 
+ 
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport1.jpg" group-title="Event3",SportHD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2892/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/TrueSport2ba9c67f2f34375c6.jpg" group-title="Event3",SportHD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2891playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport3.jpg" group-title="Event3",SportHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2890/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport5.jpg" group-title="Event3",SportHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2888/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TrueSport7.jpg" group-title="Event3",SportHD 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2829/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/SPOTV.jpg" group-title="Event3",SPOTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/SPOTV2.jpg" group-title="Event3",SPOTV2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2023/playlist.m3u8
+################################################################################################
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/TFB3.png" group-title="Event3",Premier HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2018/playlist.m3u8
+ 
+ 
+ 
+###########################################################################################
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",V1
 https://raw.githubusercontent.com/IPTV59/IPTV/refs/heads/main/V1.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/VNL.jpg"group-title="VNL",V2
@@ -263,6 +333,141 @@ https://raw.githubusercontent.com/IPTV59/IPTV2/refs/heads/main/AXN.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 ###################################################################################################################
+ 
+                                                                                                            TRUE CH.2
+############################################################################################################################### 
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="True_2",truex-zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_2",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2820/playlist.m3u8  
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/Film1.webp"group-title="True_2",trueFILM1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1877/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/movieshits.webp"group-title="True_2",trueMOVIEHITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1875/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/filmasia.webp" group-title="True_2",Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1915/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/trueseries.webp" group-title="True_2",trueseries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1916/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/ccm.jpg"group-title="True_2",TRUE CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1913/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/thaifilm.webp" group-title="True_2",ThaiFilm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1874/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/asianmore.webp"group-title="True_2",TRUEASION MORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1873/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/axn.png"group-title="True_2",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2650/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png"group-title="True_2",HboHits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2819/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134747006583.png"group-title="True_2",HboFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2816/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134720006707.png"group-title="True_2",HboSignator
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2818/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135125006722.png"group-title="True_2",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2739/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135113006742.png"group-title="True_2",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2929/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135107006734.png"group-title="True_2",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/2930/playlist.m3u8
+###########################################################################################################################################
+                                                                                                                                              TRUE CH.3
+########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp" group-title="True_3",truex-zyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134712006706.png?xsize=108&ysize=108" group-title="True_3",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2820/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/Film1.webp"group-title="True_3",trueFILM1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1877/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/movieshits.webp"group-title="True_3",trueMOVIEHITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1875/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/filmasia.webp" group-title="True_3",Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1915/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/trueseries.webp" group-title="True_3",trueseries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1916/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/ccm.jpg"group-title="True_3",TRUE CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1913/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/thaifilm.webp" group-title="True_3",ThaiFilm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1874/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/asianmore.webp"group-title="True_3",TRUEASION MORE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/1873/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img1.pic.in.th/images/axn.png"group-title="True_3",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2650/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134739006530.png"group-title="True_3",HboHits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2819/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134747006583.png"group-title="True_3",HboFamily
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2816/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716134720006707.png"group-title="True_3",HboSignator
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2818/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135125006722.png"group-title="True_3",Warner TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2739/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135113006742.png"group-title="True_3",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2929/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135107006734.png"group-title="True_3",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://madoball.com/
+https://godlivetv.io/madoball/2930/playlist.m3u8
+###############################################################################################################################
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/io0i5r9ogo7cw2teovn52/3BB-Asia.png?rlkey=dha9wfgn6bvv5gu6jkth6logq&dl=1" group-title="บันเทิง",Asian-Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac6cbd9d17a451bb76386f52469e0e9:2e2ac52cadf843459915eaa1a9b95e48
@@ -420,25 +625,43 @@ https://github.com/zaxacaasada/logotv/raw/refs/heads/main/bein7.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png" group-title="🇹🇭 ดูกีฬา",bein8
 https://github.com/zaxacaasada/logotv/raw/refs/heads/main/bein8.m3u8
 ##############################################################################################################################
- 
- 
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135154006635.png" group-title="สารคดี",animalshow
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/710/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135206006737.png" group-title="สารคดี",discovery
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1546/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/0b3649924b8b5a494cdcbea136c13d5e.png" group-title="สารคดี",discovery-asia
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1606/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp" group-title="สารคดี",TrueSCI
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/722/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp" group-title="สารคดี", explore wild
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/740/playlist.m3u8    
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716133152006662.png" group-title="สารคดี",tlc
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://godlivetv.io/madoball/1946/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132625006739.png" group-title="สารคดี",afn
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/1854/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716132819006619.png" group-title="สารคดี",ของดี
- 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/716/playlist.m3u8   
 #EXTINF:-1 tvg-logo="https://tr.play-rfcdn.ais.th/iptvepg/images/poster/20250716135242006736.png" group-title="สารคดี",สำรวจโลก
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.doonewmovie365.com/
+https://live.livedoomovies.com:4433/api/hls/live/563/playlist.m3u8   
+ 
  
  
  
